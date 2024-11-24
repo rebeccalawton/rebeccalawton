@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rebeccalawton
 - 👀 I’m interested in AI, Machine Learning, and CPU design
 - 🌱 I’m currently learning about computer architecture
-- 💞️ I’m looking to collaborateborate with students and professionals from all different backgrounds
+- 💞️ I’m looking to collaborate with students and professionals from all different backgrounds
 - 📫 rebeccatlawton@gmail.com
 - ⚡ Fun fact: I'm from Ohio!
 
